@@ -11,15 +11,25 @@
 }
 
 /* стили для блока services */
+.service-list {
+    gap: 30px;
+}
+
 .service-item {
     width: 370px;
     padding: 140px 20px 40px;
     text-align: center;
+    box-sizing: border-box;
 }
 
 /* стили для блока news */
+.news-list {
+    gap: 25px;
+}
+
 .news-item {
     width: 240px;
     padding: 40px 30px;
+    box-sizing: border-box;
 }
 
