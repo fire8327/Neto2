@@ -18,3 +18,8 @@
 }
 
 /* стили для блока news */
+.news-item {
+    width: 240px;
+    padding: 40px 30px;
+}
+
