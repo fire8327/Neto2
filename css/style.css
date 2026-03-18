@@ -1,8 +1,14 @@
 /* стили для .page*/
-
+.page {
+    width: 770px;
+    margin: auto;
+}
 
 /* стили для блока about */
-
+.about {
+    padding: 15px;
+    border-radius: 10px;
+}
 
 /* стили для блока services */
 
