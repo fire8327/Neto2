@@ -11,6 +11,10 @@
 }
 
 /* стили для блока services */
-
+.service-item {
+    width: 370px;
+    padding: 140px 20px 40px;
+    text-align: center;
+}
 
 /* стили для блока news */
